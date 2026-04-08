@@ -1,0 +1,70 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Project3NEw/Project3/x64/Debug/Arena.obj
+/Project3NEw/Project3/x64/Debug/Game.obj
+/Project3NEw/Project3/x64/Debug/main.obj
+/Project3NEw/Project3/x64/Debug/Robot.obj
+/Project3NEw/Project3/x64/Debug/theWholeProject.obj
+/Project3NEw/Project3/x64/Debug/utlities.obj
+/Project3/x64/Debug/Arena.obj
+/Project3/x64/Debug/Game.obj
+/Project3/x64/Debug/main.obj
+/Project3/x64/Debug/Player.obj
+/Project3/x64/Debug/Robot.obj
+/Project3/x64/Debug/utlities.obj
+/Project3/x64/Debug/theWholeProject.obj
+/Project3/x64/Debug/NEW PROJECT 3.tlog/CL.command.1.tlog
+/Project3/x64/Debug/NEW PROJECT 3.tlog/Cl.items.tlog
+/Project3/x64/Debug/NEW PROJECT 3.tlog/CL.read.1.tlog
+/Project3/x64/Debug/NEW PROJECT 3.tlog/CL.write.1.tlog
+/Project3/x64/Debug/NEW PROJECT 3.tlog/link.command.1.tlog
+/Project3/x64/Debug/NEW PROJECT 3.tlog/link.read.1.tlog
+/Project3/x64/Debug/NEW PROJECT 3.tlog/link.secondary.1.tlog
+/Project3/x64/Debug/NEW PROJECT 3.tlog/link.write.1.tlog
+/Project3/x64/Debug/NEW PROJECT 3.tlog/NEW PROJECT 3.lastbuildstate
+/Project3/x64/Debug/Project3.tlog/CL.command.1.tlog
+/Project3/x64/Debug/Project3.tlog/Cl.items.tlog
+/Project3/x64/Debug/Project3.tlog/CL.read.1.tlog
+/Project3/x64/Debug/Project3.tlog/CL.write.1.tlog
+/Project3/x64/Debug/Project3.tlog/link.command.1.tlog
+/Project3/x64/Debug/Project3.tlog/link.read.1.tlog
+/Project3/x64/Debug/Project3.tlog/link.secondary.1.tlog
+/Project3/x64/Debug/Project3.tlog/link.write.1.tlog
+/Project3/x64/Debug/Project3.tlog/Project3.lastbuildstate
+/Project3/x64/Debug/NEW PROJECT 3.exe.recipe
+/Project3/x64/Debug/NEW PROJECT 3.ilk
+/Project3/x64/Debug/Project3.exe.recipe
+/Project3/x64/Debug/Project3.ilk
+/Project3/x64/Debug/vc143.pdb
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/CL.command.1.tlog
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/Cl.items.tlog
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/CL.read.1.tlog
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/CL.write.1.tlog
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/link.command.1.tlog
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/link.read.1.tlog
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/link.secondary.1.tlog
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/link.write.1.tlog
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.tlog/NEW PROJECT 3.lastbuildstate
+/Project3NEw/Project3/x64/Debug/Project3.tlog/Cl.items.tlog
+/Project3NEw/Project3/x64/Debug/Project3.tlog/CL.command.1.tlog
+/Project3NEw/Project3/x64/Debug/Project3.tlog/CL.read.1.tlog
+/Project3NEw/Project3/x64/Debug/Project3.tlog/CL.write.1.tlog
+/Project3NEw/Project3/x64/Debug/Project3.tlog/link.command.1.tlog
+/Project3NEw/Project3/x64/Debug/Project3.tlog/link.read.1.tlog
+/Project3NEw/Project3/x64/Debug/Project3.tlog/link.secondary.1.tlog
+/Project3NEw/Project3/x64/Debug/Project3.tlog/link.write.1.tlog
+/Project3NEw/Project3/x64/Debug/Project3.tlog/Project3.lastbuildstate
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.exe.recipe
+/Project3NEw/Project3/x64/Debug/NEW PROJECT 3.ilk
+/Project3NEw/Project3/x64/Debug/Player.obj
+/Project3NEw/Project3/x64/Debug/Project3.exe.recipe
+/Project3NEw/Project3/x64/Debug/Project3.ilk
+/Project3NEw/Project3/x64/Debug/Project3.log
+/Project3NEw/Project3/x64/Debug/vc143.idb
+/Project3NEw/Project3/x64/Debug/vc143.pdb
+/x64/Debug/Project3.pdb
+/x64/Debug/NEW PROJECT 3.exe
+/x64/Debug/NEW PROJECT 3.pdb
+/x64/Debug/Project3.exe
